@@ -1,7 +1,7 @@
 /**
  * DO NOT MODIFY!
  */
-package cmsc433.p5;
+package analyze.tweet;
 
 /**
  * The parameter on which to perform the map reduce.

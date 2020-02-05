@@ -2,7 +2,7 @@
  * DO NOT MODIFY!
  */
 
-package cmsc433.p5;
+package analyze.tweet;
 
 import java.text.DateFormat;
 import java.text.ParseException;

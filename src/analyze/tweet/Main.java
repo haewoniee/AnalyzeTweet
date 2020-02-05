@@ -1,4 +1,4 @@
-package cmsc433.p5;
+package analyze.tweet;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.mapreduce.Job;

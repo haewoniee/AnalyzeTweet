@@ -1,4 +1,4 @@
-package cmsc433.p5;
+package analyze.tweet;
 
 import java.io.IOException;
 import java.util.Collections;
